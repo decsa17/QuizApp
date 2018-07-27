@@ -1,0 +1,1038 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"inputTwo"
+			],
+			[
+				"inpu",
+				"inputTwo"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"boxs",
+				"box-shadow\tproperty"
+			],
+			[
+				"phrase",
+				"phrase_display"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"new",
+				"newDate"
+			],
+			[
+				"sc",
+				"seconds"
+			],
+			[
+				"se",
+				"setInt"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"load",
+				"loadDoc3"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"l",
+				"lighting-color\tproperty"
+			],
+			[
+				"bakc",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"no",
+				"no-gutters"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"tax",
+				"tax25p"
+			],
+			[
+				"view",
+				"viewName"
+			],
+			[
+				"stude",
+				"studentLastName"
+			],
+			[
+				"stu",
+				"studentFirstName"
+			],
+			[
+				"st",
+				"studentFirstName"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"ans",
+				"ansArr"
+			],
+			[
+				"nam",
+				"nameCount"
+			],
+			[
+				"test",
+				"testCount"
+			],
+			[
+				"lef",
+				"margin-left\tproperty"
+			],
+			[
+				"spac",
+				"space-around\tjustify-content"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"req",
+				"req1\trequire_once …"
+			],
+			[
+				"_G",
+				"_GET"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"a",
+				"Answer"
+			],
+			[
+				"Ch",
+				"ChoiceD"
+			],
+			[
+				"bt",
+				"btn_text"
+			],
+			[
+				"res",
+				"resultCheck"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"e",
+				"E7EFF3"
+			],
+			[
+				"t",
+				"Tajawal"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"resu",
+				"resultCheck"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"s",
+				"schoolyear"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"slid",
+				"slideIndex"
+			],
+			[
+				"slide",
+				"slideIndex"
+			],
+			[
+				"anima",
+				"animalContainer"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"div",
+				"divide"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"m",
+				"minutes"
+			],
+			[
+				"str",
+				"str"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"pas",
+				"passwordHashed"
+			],
+			[
+				"zip",
+				"zipCode"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"pregma",
+				"preg_match"
+			],
+			[
+				"contac",
+				"contactNumberErr"
+			],
+			[
+				"cit",
+				"cityErr"
+			],
+			[
+				"pass",
+				"passwordErr"
+			],
+			[
+				"mid",
+				"midErr"
+			],
+			[
+				"ema",
+				"emailErr"
+			],
+			[
+				"las",
+				"lastNameErr"
+			],
+			[
+				"last",
+				"last"
+			],
+			[
+				"fir",
+				"firstNameErr"
+			],
+			[
+				"mysqli",
+				"mysqli_escape_string"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"fileT",
+				"fileTmpName"
+			],
+			[
+				"filenam",
+				"fileNameNew"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"incl",
+				"incl1\tinclude_once …"
+			],
+			[
+				"ri",
+				"padding-right"
+			],
+			[
+				"inc",
+				"incl1\tinclude_once …"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"db",
+				"dbUsername"
+			],
+			[
+				"fin",
+				"finalStr"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"tar",
+				"targetLen"
+			],
+			[
+				"fi",
+				"finalText"
+			],
+			[
+				"wo",
+				"words"
+			],
+			[
+				"rever",
+				"reversed"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tit",
+				"titleCase"
+			],
+			[
+				"rev",
+				"revstring"
+			],
+			[
+				"inp",
+				"inputval"
+			],
+			[
+				"ar",
+				"arr1"
+			],
+			[
+				"conne",
+				"connections"
+			],
+			[
+				"socke",
+				"sockets"
+			],
+			[
+				"conn",
+				"connections"
+			],
+			[
+				"c",
+				"connected"
+			],
+			[
+				"so",
+				"sockets"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"M",
+				"Mahee"
+			],
+			[
+				"anim",
+				"animation-iteration-count"
+			],
+			[
+				"number",
+				"numberOfDays"
+			],
+			[
+				"que",
+				"questionIndex"
+			],
+			[
+				"ge",
+				"getQuestionIndex"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"is",
+				"is_string"
+			],
+			[
+				"ani",
+				"animation-duration"
+			],
+			[
+				"animat",
+				"animation-name"
+			],
+			[
+				"time",
+				"timeNow"
+			],
+			[
+				"ran",
+				"randomWord"
+			],
+			[
+				"ad",
+				"adjectives"
+			],
+			[
+				"rand",
+				"randomWord"
+			],
+			[
+				"random",
+				"randomWord"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "exams/physics_y1_q1.php",
+			"settings":
+			{
+				"buffer_size": 2656,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 5606,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/student-login.inc.php",
+			"settings":
+			{
+				"buffer_size": 1286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sadec/Desktop/test.html",
+			"settings":
+			{
+				"buffer_size": 3389,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sav",
+				"File: Save All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"",
+				"File: Save All"
+			],
+			[
+				"SAV",
+				"File: Save All"
+			],
+			[
+				"sa",
+				"File: Save All"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"\\",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sadec/Documents/itinirary/things to bring.txt",
+		"/C/xampp/htdocs/QuizApp/student-login-special.css",
+		"/C/Users/sadec/Desktop/test.html",
+		"/C/Users/sadec/Desktop/py/myApp.py",
+		"/C/xampp/htdocs/QuizApp/style.css",
+		"/C/xampp/htdocs/QuizApp/exams/physics_y1_q1.php",
+		"/C/xampp/htdocs/QuizApp/exam-page.php",
+		"/C/xampp/htdocs/QuizApp/test1/index.html",
+		"/C/xampp/htdocs/QuizApp/test1/style.css",
+		"/C/Users/sadec/Desktop/Yeyet/index.html",
+		"/C/xampp/htdocs/QuizApp/exam-questionnaire.php",
+		"/C/xampp/htdocs/QuizApp/includes/physicsexam.php",
+		"/C/xampp/htdocs/QuizApp/includes/exam-questionnaire.inc.php",
+		"/C/xampp/htdocs/QuizApp/includes/exam-checker.inc.php",
+		"/C/xampp/htdocs/QuizApp/student-profile.php",
+		"/C/xampp/htdocs/QuizApp/student-login.php",
+		"/C/xampp/htdocs/QuizApp/admin-panel.php",
+		"/C/xampp/htdocs/QuizApp/sign-up.php",
+		"/C/xampp/htdocs/QuizApp/includes/bulletin.inc.php",
+		"/C/xampp/htdocs/QuizApp/bulletinboard.php",
+		"/C/xampp/htdocs/QuizApp/includes/profile-image.inc.php",
+		"/C/xampp/htdocs/worldDBforTesting/includes/logic.php",
+		"/C/xampp/htdocs/worldDBforTesting/test.php",
+		"/C/xampp/htdocs/worldDBforTesting/includes/logic3.php",
+		"/C/xampp/htdocs/worldDBforTesting/includes/logic2.php",
+		"/C/xampp/htdocs/QuizApp/testpage.php",
+		"/C/Users/sadec/Desktop/Yeyet/index.html yeyet",
+		"/C/Users/sadec/Desktop/YEYET/index.html",
+		"/C/xampp/htdocs/QuizApp/contact-us.php",
+		"/C/xampp/htdocs/QuizApp/fortesting/logic.php",
+		"/C/xampp/htdocs/QuizApp/fortesting/index.php",
+		"/C/xampp/htdocs/QuizApp/fortesting/controller.php",
+		"/C/xampp/htdocs/QuizApp/includes/contact-form.inc.php",
+		"/C/xampp/htdocs/MVC/views/test.php",
+		"/C/xampp/htdocs/MVC/Routes.php",
+		"/C/xampp/htdocs/MVC/controllers/ContactUs.php",
+		"/C/xampp/htdocs/MVC/controllers/Controller.php",
+		"/C/xampp/htdocs/MVC/views/AboutUs.php",
+		"/C/xampp/htdocs/MVC/views/index.php",
+		"/C/xampp/htdocs/MVC/classes/Database.php",
+		"/C/xampp/htdocs/MVC/views/ContactUs.php",
+		"/C/xampp/htdocs/MVC/controllers/index.php",
+		"/C/xampp/htdocs/MVC/controllers/AboutUs.php",
+		"/C/xampp/htdocs/MVC/index.php",
+		"/C/xampp/htdocs/MVC/classes/Route.php",
+		"/C/xampp/htdocs/MVC/.htaccess",
+		"/C/xampp/htdocs/MVC/classes/ContactUs.php",
+		"/C/xampp/htdocs/MVC/classes/AboutUs.php",
+		"/C/xampp/htdocs/MVC/controllers/Contact-us.php",
+		"/C/xampp/htdocs/MVC/controllers/About-us.php",
+		"/C/xampp/htdocs/MVC/.htaccess.php",
+		"/C/xampp/htdocs/QuizApp/includes/student-login.inc.php",
+		"/C/xampp/htdocs/QuizApp/exam-result-page.php",
+		"/C/xampp/htdocs/QuizApp/includes/sign-up.inc.php",
+		"/C/xampp/htdocs/MVC/includes/examcalc.inc.php",
+		"/C/xampp/htdocs/MVC/includes/examclass.inc.php",
+		"/C/xampp/htdocs/MVC/includes/dbconnection.inc.php",
+		"/C/xampp/htdocs/QuizApp/includes/dbconnection.inc.php",
+		"/C/xampp/htdocs/worldDBforTesting/includes/calc.inc.php",
+		"/C/xampp/htdocs/worldDBforTesting/includes/class.inc.php",
+		"/C/xampp/htdocs/QuizApp/includes/quiz.inc.php",
+		"/C/xampp/htdocs/TPLI/datatables.js",
+		"/C/xampp/htdocs/TPLI/config.php",
+		"/C/Users/sadec/Desktop/graphic design.txt",
+		"/C/Users/sadec/Desktop/web designer skill set.txt",
+		"/C/Users/sadec/Desktop/review.txt",
+		"/C/xampp/htdocs/today/test.php",
+		"/C/xampp/htdocs/today/index.html",
+		"/C/xampp/htdocs/QuizApp/header.php",
+		"/C/xampp/htdocs/QuizApp/index.php",
+		"/C/xampp/htdocs/TPLI/client/add_comment.php",
+		"/C/xampp/htdocs/TPLI/carrier/update_shipment_location.redirect.php",
+		"/C/xampp/htdocs/TPLI/carrier/login.php",
+		"/C/xampp/htdocs/TPLI/carrier/login.redirect.php",
+		"/C/xampp/htdocs/TPLI/carrier/update_shipment_location.php",
+		"/C/xampp/htdocs/QuizApp/footer.php",
+		"/C/xampp/htdocs/TPLI/employee/account.view.php",
+		"/C/xampp/htdocs/MVC/routes.php",
+		"/C/xampp/htdocs/MVC/controllers/posts_controller.php",
+		"/C/xampp/htdocs/MVC/views/posts/show.php",
+		"/C/xampp/htdocs/MVC/views/posts/index.php",
+		"/C/xampp/htdocs/MVC/views/layout.php",
+		"/C/xampp/htdocs/MVC/models/posts.php",
+		"/C/xampp/htdocs/MVC/views/pages/home.php",
+		"/C/xampp/htdocs/MVC/views/pages/error.php",
+		"/C/xampp/htdocs/MVC/controllers/pages_controller.php",
+		"/C/xampp/htdocs/MVC/connection.php",
+		"/C/Users/sadec/Desktop/yeyets website/style.css",
+		"/C/Users/sadec/Desktop/yeyets website/index.html",
+		"/C/xampp/htdocs/QuizApp/main.js",
+		"/C/xampp/htdocs/QuizApp/test.php",
+		"/C/Users/sadec/Desktop/cdn(bootstrap, jquery), fonts,.txt",
+		"/C/xampp/htdocs/QuizApp/includes/sign-in.inc.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/htdocs/beta/main.js",
+		"/C/xampp/htdocs/beta/style.css",
+		"/C/xampp/htdocs/beta/index.php",
+		"/C/xampp/htdocs/sample/index.html",
+		"/C/xampp/htdocs/sample/style.css",
+		"/C/xampp/htdocs/sample/main.js",
+		"/C/xampp/htdocs/sample/sample2.json",
+		"/C/xampp/htdocs/sample/sample3.json",
+		"/C/xampp/htdocs/sample/sample1.json",
+		"/C/Users/sadec/Desktop/sample/sample.json",
+		"/C/Users/sadec/Desktop/sample/index.html",
+		"/C/Users/sadec/Desktop/sample/main.js",
+		"/C/xampp/htdocs/clothing_mnl/style.css",
+		"/C/xampp/htdocs/test/index.php",
+		"/C/xampp/htdocs/sample/validation.php",
+		"/C/xampp/htdocs/sample/script.js",
+		"/C/Users/sadec/Desktop/codingchallenges.html",
+		"/C/Users/sadec/Desktop/testcase.html",
+		"/C/xampp/htdocs/clothing_mnl/upload.php",
+		"/C/xampp/htdocs/clothing_mnl/includes/login.inc.php",
+		"/C/xampp/htdocs/clothing_mnl/header.php",
+		"/C/xampp/htdocs/clothing_mnl/profile.php",
+		"/C/xampp/htdocs/clothing_mnl/login_page.php",
+		"/C/xampp/htdocs/clothing_mnl/sign-up.php",
+		"/C/xampp/htdocs/myTestFolder/header.php",
+		"/C/xampp/htdocs/myTestFolder/includes/login.inc.php",
+		"/C/xampp/htdocs/myTestFolder/index.php",
+		"/C/xampp/htdocs/clothing_mnl/includes/signup.inc.php",
+		"/C/xampp/htdocs/myTestFolder/includes/signup.inc.php",
+		"/C/xampp/htdocs/clothing_mnl/index.php",
+		"/C/xampp/htdocs/clothing_mnl/includes/dbconn.php",
+		"/C/xampp/htdocs/myTestFolder/includes/dbh.inc.php",
+		"/C/xampp/htdocs/clothing_mnl/footer.php",
+		"/C/xampp/htdocs/3cs_clothing_mnl/includes/login.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inputTwo",
+			"inputOne",
+			"inputTwo",
+			"inputOne",
+			"ol",
+			"ul",
+			"p",
+			"animate",
+			"animate()",
+			"id=\"slide",
+			"animate",
+			"10",
+			"5",
+			"1",
+			"3",
+			"2",
+			"0",
+			"5",
+			"10",
+			"f",
+			"6",
+			"1",
+			"98FB98",
+			"exam",
+			"exa",
+			"x",
+			"background",
+			"background-color",
+			"header",
+			"h2",
+			"margin-top: 5px;",
+			"28",
+			"30px",
+			"20px",
+			"50",
+			"class=\"myprofilename links\"",
+			"class=\"links\"",
+			"myprofilename",
+			"_REQUEST",
+			"4",
+			"col",
+			"md",
+			"span ",
+			" ",
+			"choices_a",
+			"question",
+			"$i",
+			"$myCount",
+			"choice",
+			"$a1",
+			"choice[]",
+			"choice"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "exams/physics_y1_q1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1876,
+								1876
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4970,
+								4970
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8380.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "includes/student-login.inc.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/sadec/Desktop/test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2351,
+								2351
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2577.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "student-login-special.css",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\MVC\\includes\\examcalc.inc.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
