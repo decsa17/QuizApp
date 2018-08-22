@@ -19,22 +19,24 @@
 			<?php
 
 				$sy = $_SESSION['u_schoolyear'];
-
-				$sql = "SELECT * FROM exams WHERE school_year = $sy;";
+				$user = $_SESSION['u_id'];
+				$sql = "SELECT * FROM exams WHERE school_year=$sy;";
 				$result = mysqli_query($conn, $sql);
 
 				if (mysqli_num_rows($result) > 0) {
 					while ($row = mysqli_fetch_assoc($result)) {
-						echo 
-							"<tr>
-								<td>" .$row["subject"]. "</td>
-								<td> <a href=".'exams/'.$row["name"].'.php'.">" .$row["name"]. "</a></td>
-								<td>" .$row["author"]. "</td>
-							</tr>";
+						echo 	'<tr>
+									<form action="exam-taking.php" method="POST">
+									<td>'.$row['subject'].'</td>
+									<td>'.$row['name'].'</td>
+									<td>'.$row['author'].'</td>
+									<td><button class="btn btn-sm btn-primary" name="subject" value="'.$row['name'].'">Take</button></td>
+									</form>
+								<tr>';
 					}
 				}
-
-			?>
+			?>	
+			
 		</table>
 	</div>
 </div>
