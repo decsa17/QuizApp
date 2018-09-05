@@ -20,9 +20,12 @@
 		echo 'You don\'t have any pictures';
 	} else {
 		while ($row = mysqli_fetch_assoc($result)) {
-			echo '<div class="col-md-2 sass">
-					<div>
+			echo '<div class="col-md-2 p-0 m-1">
+					<div class="img-container">
 						<img src="upload/'.$row['img_dir'].'" class="images">
+						<div class="image-text">
+							<p>wadap?!</p>
+						</div>
 					</div>	
 				 </div>';
 		}
